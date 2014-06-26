@@ -16,6 +16,8 @@ Also you can see explanation of the code on _ProjectReport.pdf_
 
 
 It is tested with the files which are under the _example-txt-files_ directory. 
+
+
 Example usage: ./wordcounter marktwain-huckfin.txt
 
 
