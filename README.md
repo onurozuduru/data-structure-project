@@ -6,7 +6,7 @@ Data Structures and Algorithms project.
 
 
 It is a C++ project which is written in 2011 by Anil Kayan and Onur Ozuduru for Data Structures and Algorithms class. 
-This is our first project at university, I remember that how we'd searched and compared some sorting algorithms before we wrote the code :') OK, after the emotional sentences, 
+This was our first project at university, I remember that how we'd searched and compared some sorting algorithms before we wrote the code :') OK, after the emotional sentences, 
 let me give some information about the code :)
 It is a simple console application. It takes a text file and counts the words in that file. 
 There are more information on _ProjectDescription.pdf_ file. 
